@@ -2,6 +2,13 @@
   "expo": {
     "name": "BudgetAI",
     "slug": "budgetai",
+    "extra": {
+        "eas": {
+            "projectId": "7520658d-d6be-4567-a873-0b455f52da71"
+              }
+              },
+              
+    }
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
